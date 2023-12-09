@@ -1,0 +1,9 @@
+---
+slots: 20
+allow_world_manipulation: true
+spawn_position:
+- -1
+- 155
+- 12
+voidcoord: 0
+...

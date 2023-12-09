@@ -1,0 +1,10 @@
+---
+provider: mysql
+debug: true
+mysql:
+  host: 127.0.0.1
+  port: 8968
+  user: greenwix
+  password: yXAPfGTzxY4tyllzSDv94VrLz
+  database: minigames
+...
